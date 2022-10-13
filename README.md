@@ -2,7 +2,7 @@
 - 👀 I’m interested in FPGA\Digital IC
 - 🌱 I’m currently learning Verilog/SystemVerilog/UVM
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My E-mail address is tlm_0823@163.com
 
 <!---
 Alpha521/Alpha521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
